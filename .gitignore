@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyc
+
+# Virtual Environment
+venv/
+.venv/
+
+# Scan output
+reports/
+
+# VS Code
+.vscode/
+
+# macOS
+.DS_Store

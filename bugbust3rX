@@ -1,0 +1,5 @@
+#!/bin/bash
+
+PROJECT="__PROJECT_PATH__"
+
+exec "$PROJECT/venv/bin/python" "$PROJECT/main.py" "$@"
