@@ -6,7 +6,6 @@
 
 A modular Python reconnaissance framework for penetration testing, bug bounty recon, and security assessments — 9 recon tools you can run individually, or all at once in parallel as a single **Full Scan** that merges every result into one report file.
 
-> Originally forked from [ReconForge](https://github.com/Amr-Amen/ReconForge) by Amr Abdelnabi (MIT licensed). Renamed, restyled, and extended with parallel automation and unified reporting by Ahmed Mamdouh.
 
 ---
 
@@ -191,9 +190,6 @@ This tool is intended for educational purposes and **authorized** security testi
 
 ---
 
-## Credits
 
-- Original framework: [ReconForge](https://github.com/Amr-Amen/ReconForge) by **Amr Abdelnabi**
-- Rebuild, parallel Full Scan engine, and redesign: **Ahmed Mamdouh**
 
 Licensed under MIT — see `LICENSE`.
